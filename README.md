@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JeffreysNoel
+- 👀 I’m interested in Reddit bots
+- 🌱 I’m currently learning Python
